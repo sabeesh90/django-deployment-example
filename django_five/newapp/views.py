@@ -3,6 +3,7 @@ from newapp.forms import UserForm, UserProfileInfoform
 from newapp.models import UserProfileInfo
 from . import forms
 from django.contrib.auth.models import User
+from .import forms
 
 
 
